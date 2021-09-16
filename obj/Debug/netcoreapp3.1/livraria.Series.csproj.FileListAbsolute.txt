@@ -1,0 +1,14 @@
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.exe
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.deps.json
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.runtimeconfig.json
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.runtimeconfig.dev.json
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.dll
+C:\Users\vmart\Downloads\API_CADASTRO\bin\Debug\netcoreapp3.1\livraria.Series.pdb
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.csproj.AssemblyReference.cache
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.AssemblyInfoInputs.cache
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.AssemblyInfo.cs
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.csproj.CoreCompileInputs.cache
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.dll
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.pdb
+C:\Users\vmart\Downloads\API_CADASTRO\obj\Debug\netcoreapp3.1\livraria.Series.genruntimeconfig.cache
